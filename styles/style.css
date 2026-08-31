@@ -135,7 +135,7 @@ h1:active {
   border-radius: 50%;
   border: 2px dashed #1c1c1c;
   margin: 10px;
-  transition: 0.2s;
+  transition: 0.3s;
 }
 
 #taylor-circle:hover {

@@ -1,0 +1,153 @@
+@font-face {
+  font-family: "Taylor Swift";
+  src: url("./Satisfaction.ttf");
+}
+
+body {
+  margin: 0;
+  background-image: url("../images/background.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.main {
+  margin: 40px 40px 0px 40px;
+  background-color: #00912f93;
+  width: 700px;
+  padding: 20px;
+  margin: 20px auto;
+  border-bottom: 10px solid green;
+  border-left: 3px dotted white;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.business-texts {
+  font-family: "Playfair Display", serif;
+  width: 300px;
+  text-align: center;
+  color: #1c1c1c;
+}
+
+h1 {
+  font-family: "Taylor Swift", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 7px 0;
+  text-shadow: 5px 3px 8px #1c1c1c;
+  transition: 0.2s;
+}
+
+h2 {
+  font-family: "Caacupe One", sans-serif;
+  letter-spacing: 1.5px;
+  font-size: 30px;
+  margin: 7px 0;
+  color: #f6f6f6;
+  text-shadow: 3px 3px 10px #f6f6f6;
+}
+
+#music-industry {
+  border-bottom: 2px solid #f6f6f6;
+}
+
+#card-info {
+  font-family: "Merriweather", serif;
+  font-style: italic;
+  font-size: 15px;
+  margin: 7px 0;
+}
+
+#avatar {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  object-fit: cover;
+  object-position: center;
+  padding: none;
+}
+
+button {
+  margin: 20px 0;
+  padding: 12px 30px;
+  border-radius: 20px;
+  color: #f6f6f6;
+  background-color: red;
+  transition: 0.2s;
+}
+
+a {
+  color: #1c1c1c;
+}
+
+button:hover,
+h1:hover {
+  transform: scale(1.1);
+}
+
+button:active,
+h1:active {
+  transform: scale(0.9);
+}
+
+.paragraph {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 220px;
+  background: linear-gradient(#c1fff2, #f6f6f6, #c1fff2);
+  border-top: 5px solid gray;
+}
+
+.side {
+  width: 300px;
+  object-fit: cover;
+  object-position: center;
+}
+
+#taylor-info {
+  padding: 10px 100px;
+  font-family: "Caacupe One", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  color: #1c1c1c;
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#source-media {
+  color: #1c1c1c;
+}
+
+#taylor-circle {
+  width: 200px;
+  height: 200px;
+  background-image: url("../images/taylor-avatar.jpg");
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  border: 2px dashed #1c1c1c;
+  margin: 10px;
+  transition: 0.2s;
+}
+
+#taylor-circle:hover {
+  transform: scale(1.1);
+  background-image: url("../images/hover.jpg");
+}
+
+#iconic-name {
+  margin: 5px 0;
+  font-family: "Taylor Swift", sans-serif;
+  font-size: 20px;
+  padding: 5px;
+  background-color: #6ca7ff;
+  border-radius: 10px;
+}

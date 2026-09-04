@@ -1,4 +1,4 @@
 "use strict";
 
-alert("Im Taylor Swift, please explore this website!");
+alert("I'm a Taylor Swift's fan, please explore this website!");
 alert("Does it look good enough?");

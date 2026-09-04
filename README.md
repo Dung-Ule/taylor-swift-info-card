@@ -1,4 +1,4 @@
-# **TAYLOR SWIFT'S INFO CARD👑👑**
+# TAYLOR SWIFT'S INFO CARD👑👑
 
 #### _A simple website made by a student learning HTML, CSS and Javascript._
 
@@ -12,7 +12,7 @@
 - Her music video The Fate Of Ophelia
 - "Fortnight Ft. Post Malone" by Taylor Swift
 - Some interactions and links you can follow
-- ...Still updating
+- _...Still updating_
 
 ## Languages:
 
@@ -56,12 +56,12 @@ project/
 - Updating my website with Github desktop
 - Getting to know about Github
 - Basic Javascript
-- ...Still updating
+- _...Still updating_
 
 ## Credits: Images, audios, videos are made and belong to Taylor Swift!
 
 ### _Media used in this project belongs to their respective copyright owners. This is a fan-made project created for learning purposes._
 
-# _Author:_ **Dung Ule (Nguyễn Trọng Dũng)**
+# _Author:_ Dung Ule (Nguyễn Trọng Dũng)
 
 ## A newbie web developer, please support me on my journey!

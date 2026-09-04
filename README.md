@@ -46,7 +46,7 @@ project/
 
 #### Very simple, follow this link👇:
 
-[link](https://taylor-swift-info-card-fanmade.netlify.app/)
+[Visit my cute website](https://taylor-swift-info-card-fanmade.netlify.app/)
 
 ## What I learnt:
 

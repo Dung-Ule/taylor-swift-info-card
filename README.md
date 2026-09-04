@@ -12,7 +12,7 @@
 - Her music video The Fate Of Ophelia
 - "Fortnight Ft. Post Malone" by Taylor Swift
 - Some interactions and links you can follow
-  -...Still updating
+- ...Still updating
 
 ## Languages:
 

@@ -60,6 +60,8 @@ project/
 
 ## Credits: Images, audios, videos are made and belong to Taylor Swift!
 
+### _Media used in this project belongs to their respective copyright owners. This is a fan-made project created for learning purposes._
+
 # _Author:_ **Dung Ule (Nguyễn Trọng Dũng)**
 
 ## A newbie web developer, please support me on my journey!

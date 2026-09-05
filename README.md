@@ -9,7 +9,7 @@
 - Taylor Swift's info card
 - Taylor Swift's description
 - A bunch of Taylor Swift's nice images
-- Her music video The Fate Of Ophelia
+- Her music video "The Fate Of Ophelia"
 - "Fortnight Ft. Post Malone" by Taylor Swift
 - Some interactions and links you can follow
 - _...Still updating_
